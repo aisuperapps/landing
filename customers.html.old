@@ -1,0 +1,719 @@
+<!DOCTYPE html>
+<!-- OLMO - Software, App, SaaS & Startup Landing Pages Pack design by DSAThemes (http://www.dsathemes.com) -->
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!-->
+<html lang="en">
+
+
+	<head>
+
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+		<meta name="author" content="DSAThemes"/>	
+		<meta name="description" content="OLMO - Software, App, SaaS & Startup Landing Pages Pack"/>
+		<meta name="keywords" content="Responsive, HTML5, DSAThemes, One Page, Landing, Software, Mobile App, SaaS, Startup, Creative, Freelancers, Digital Product">	
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+				
+  		<!-- SITE TITLE -->
+		<title>LOADMASTER - Delivering agile apps for small business since 2001</title>
+							
+		<!-- FAVICON AND TOUCH ICONS -->
+		<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+		<link rel="icon" href="images/favicon.ico" type="image/x-icon">
+		<link rel="apple-touch-icon" sizes="152x152" href="images/apple-touch-icon-152x152.png">
+		<link rel="apple-touch-icon" sizes="120x120" href="images/apple-touch-icon-120x120.png">
+		<link rel="apple-touch-icon" sizes="76x76" href="images/apple-touch-icon-76x76.png">
+		<link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+		<link rel="icon" href="images/apple-touch-icon.png" type="image/x-icon">
+
+		<!-- GOOGLE FONTS -->
+		<link href="https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;700&display=swap" rel="stylesheet">
+
+		<!-- BOOTSTRAP CSS -->
+		<link href="css/bootstrap.min.css" rel="stylesheet">
+				
+		<!-- FONT ICONS -->
+		<link href="css/flaticon.css" rel="stylesheet">
+
+		<!-- PLUGINS STYLESHEET -->
+		<link href="css/menu.css" rel="stylesheet">	
+		<link id="effect" href="css/dropdown-effects/fade-down.css" media="all" rel="stylesheet">
+		<link href="css/magnific-popup.css" rel="stylesheet">	
+		<link href="css/owl.carousel.min.css" rel="stylesheet">
+		<link href="css/owl.theme.default.min.css" rel="stylesheet">
+
+		<!-- ON SCROLL ANIMATION -->
+		<link href="css/animate.css" rel="stylesheet">
+
+		<!-- TEMPLATE CSS -->
+		<link href="css/style.css" rel="stylesheet"> 
+		
+		<!-- RESPONSIVE CSS -->
+		<link href="css/responsive.css" rel="stylesheet">
+
+	</head>
+
+	<body>
+
+		<!-- PRELOADER SPINNER
+		============================================= -->	
+		<div id="loading">
+			<div id="loading-center">
+				<div id="loading-center-absolute">
+					<div class="object" id="object_one"></div>
+					<div class="object" id="object_two"></div>
+					<div class="object" id="object_three"></div>
+					<div class="object" id="object_four"></div>
+				</div>
+			</div>
+		</div>
+
+
+
+
+		<!-- PAGE CONTENT
+		============================================= -->	
+		<div id="page" class="page">
+
+
+
+
+			<!-- HEADER
+			============================================= -->
+			<header id="header" class="header white-menu navbar-dark">
+				<div class="header-wrapper">
+
+
+					<!-- MOBILE HEADER -->
+				    <div class="wsmobileheader clearfix">	  	
+				    	<span class="smllogo"><img src="images/logo-01.png" alt="mobile-logo"/></span>
+				    	<a id="wsnavtoggle" class="wsanimated-arrow"><span></span></a>	
+				 	</div>
+
+
+				 	
+
+
+<!-- NAVIGATION MENU -->
+<div class="wsmainfull menu clearfix">
+	<div class="wsmainwp clearfix">
+
+
+		<!-- HEADER LOGO -->
+		<div class="desktoplogo"><a href="/" class="logo-black"><img src="images/logo-01.png" alt="header-logo"></a></div>
+		<div class="desktoplogo"><a href="/" class="logo-white"><img src="images/logo-white.png" alt="header-logo"></a></div>
+
+
+		<!-- MAIN MENU -->
+		  <nav class="wsmenu clearfix">
+			<ul class="wsmenu-list nav-stateblue-hover">
+
+
+				<!-- SIMPLE NAVIGATION LINK -->
+				<li class="nl-simple" aria-haspopup="true"><a href="customers.html">Customers</a></li>
+
+
+				  <!-- SIMPLE NAVIGATION LINK -->
+				<li class="nl-simple" aria-haspopup="true"><a href="technology.html">Technology</a></li>
+
+
+				  <!-- SIMPLE NAVIGATION LINK -->
+				<li class="nl-simple" aria-haspopup="true"><a href="templates.html">Templates</a></li>
+
+
+				  <!-- SIMPLE NAVIGATION LINK -->
+				<li class="nl-simple" aria-haspopup="true"><a href="pricing.html">Pricing</a></li>
+
+
+				<!-- HEADER BUTTON -->
+				<li class="nl-simple" aria-haspopup="true">
+					<a href="#cta-11" class="btn btn-stateblue tra-grey-hover last-link">Get Started</a>
+				</li> 
+
+
+				<!-- HEADER SOCIAL LINKS 													
+				<li class="nl-simple white-color header-socials ico-20 clearfix" aria-haspopup="true">
+					<span><a href="#" class="ico-facebook"><span class="flaticon-facebook"></span></a></span>
+					<span><a href="#" class="ico-twitter"><span class="flaticon-twitter"></span></a></span>
+					<span><a href="#" class="ico-instagram"><span class="flaticon-instagram"></span></a></span>
+					<span><a href="#" class="ico-dribbble"><span class="flaticon-dribbble"></span></a></span>	
+				</li> -->	
+
+
+			</ul>
+		</nav>	<!-- END MAIN MENU -->
+
+
+	</div>
+</div>	<!-- END NAVIGATION MENU -->
+
+
+
+				</div>     <!-- End header-wrapper -->
+			</header>	<!-- END HEADER -->
+
+
+			<!-- PRICING-2
+			============================================= -->
+			<section id="pricing-2" class="bg-snow pb-60 inner-page-hero pricing-section division">
+				<div class="container">
+
+
+					<!-- SECTION TITLE -->	
+					<div class="row justify-content-center">	
+						<div class="col-lg-10 col-xl-8">
+							<div class="section-title title-01 mb-80">		
+
+								<!-- Title -->	
+								<h2 class="h2-md">Built for companies of all sizes</h2>	
+
+								<!-- Text -->	
+								<p class="p-xl">Loadmaster makes building internal tools fast & easy: any company, any industry.</p>
+									
+							</div>	
+						</div>
+					</div>
+
+
+					<!-- PRICING TABLES -->
+					<div class="pricing-2-row pc-25">
+						<div class="row row-cols-1 row-cols-md-3">
+
+
+							<!-- MARKETPLACES -->
+							<div class="col">
+								<div class="pricing-2-table bg-white mb-40 wow fadeInUp">	
+													
+									<!-- Plan Price -->
+									<div class="pricing-plan">
+
+										<!-- Plan Title -->
+										<div class="pricing-plan-title">
+											<h5 class="h5-xs">Marketplaces</h5>
+										</div>	
+
+										<!-- Price -->
+										<p class="p-md"></p>As orders scale, your operations need to keep pace. With more returns to process, orders to fulfill, and inventory to track, your engineering team gets stuck on operations tooling instead of building a better customer experience.</p> 
+
+										<p class="p-md"></p>Retool lets you quickly build tools to empower your non-technical analysts to manage inventory, procurement, and supply chain operations. Give your customer-facing teams the tools they need to manage everything from promotions and gift cards to GDPR compliance.</p> 
+
+									</div>	
+
+									<!-- Plan Features  -->
+
+
+									<!-- Pricing Plan Button -->
+									<a href="#" class="btn btn-sm btn-skyblue tra-grey-hover">Select Plan</a>
+								</div>
+							</div>	<!-- END BASIC PLAN -->
+
+							<!-- INFRASTRUCTURE-->
+							<div class="col">
+								<div class="pricing-2-table bg-white mb-40 wow fadeInUp">	
+
+									<!-- Plan Price -->
+									<div class="pricing-plan">
+
+										<!-- Plan Title -->
+										<div class="pricing-plan-title">
+											<h5 class="h5-xs">Infrastructure projects</h5>
+										</div>	
+
+										<!-- Price -->
+										<p class="p-md"></p>KYC. AML. Underwriting. Financial service businesses need to balance the speed and efficiency customers have come to expect with the accountability and transparency demanded by tight regulations and compliance requirements.</p> 
+										<p class="p-md"></p>Companies like Brex, Plaid, and Ramp use Retool to build apps for operations teams that underwrite loans, measure risk, and investigate fraud.</p> 
+					
+
+									</div>
+
+									<!-- Pricing Plan Button -->
+									<a href="#" class="btn btn-sm btn-skyblue tra-grey-hover">Select Plan</a>
+								</div>
+							</div>	<!-- END AGENCY PLAN  -->
+
+							<!-- Financial services -->
+							<div class="col">
+								<div class="pricing-2-table bg-white mb-40 wow fadeInUp">
+
+									<!-- Plan Price  -->
+									<div class="pricing-plan highlight">
+
+										<!-- Plan Title -->
+										<div class="pricing-plan-title">
+											<h5 class="h5-xs">Financial services</h5>
+										</div>	
+
+										<!-- Price -->
+<!-- 										<sup class="dark-color">$</sup>								
+										<span class="dark-color">15</span>
+										<sup class="validity dark-color"><span>.99</span> / month</sup>
+										<p class="p-md">Billed as $199 per year</p> -->
+
+
+										<p class="p-md"></p>KYC. AML. Underwriting. Financial service businesses need to balance the speed and efficiency customers have come to expect with the accountability and transparency demanded by tight regulations and compliance requirements.</p> 
+										<p class="p-md"></p>Companies like Brex, Plaid, and Ramp use Retool to build apps for operations teams that underwrite loans, measure risk, and investigate fraud.</p> 
+									</div>	
+
+									<!-- Plan Features  -->
+<!-- 									<ul class="features">
+										<li><p class="p-md"><span>Unlimited</span> Projects</p></li>
+										<li><p class="p-md"><span>50</span> mySQL Database</p></li>
+										<li><p class="p-md"><span>500 GB</span> of Storage</p></li>
+										<li><p class="p-md"><span>VIP</span> Support</p></li>	
+									</ul> -->
+
+									<!-- Pricing Plan Button -->
+									<a href="#" class="btn btn-sm btn-skyblue tra-grey-hover">Select Plan</a>
+
+								</div>
+							</div>	<!-- END ADVANCED PLAN -->
+
+						</div>
+					</div>	<!-- END PRICING TABLES -->
+
+
+					<!-- PRICING COMPARE -->
+					<div class="pricing-compare pc-40">
+						<div class="row">
+							<div class="col">
+
+								<!-- Title -->	
+								<h3 class="h3-sm text-center">Compare Pricing Packages</h3>
+
+								<!-- Table -->	
+	   							<div class="table-responsive">
+	     							<table class="table text-center">
+
+	        							<thead>
+									        <tr>
+									            <th style="width: 34%;"></th>
+									            <th style="width: 22%;">Basic</th>
+									            <th style="width: 22%;">Agency</th>
+									            <th style="width: 22%;">Advanced</th>
+									       	</tr>
+								        </thead>
+
+								        <tbody>
+
+									        <tr>
+									            <th scope="row" class="text-start">25 Projects</th>
+									            <td class="ico-15 green-color"><span class="flaticon-check"></span></td>
+									            <td class="ico-15 green-color"><span class="flaticon-check"></span></td>
+									            <td class="ico-15 green-color"><span class="flaticon-check"></span></td>
+									        </tr>
+
+									        <tr>
+									            <th scope="row" class="text-start">100 Projects</th>
+									            <td class="ico-10 disabled-option"><span class="flaticon-cancel"></span></td>
+									            <td class="ico-15 green-color"><span class="flaticon-check"></span></td>
+									            <td class="ico-15 green-color"><span class="flaticon-check"></span></td>
+									        </tr>
+
+									        <tr>
+									            <th scope="row" class="text-start">Unlimited</th>
+									            <td class="ico-10 disabled-option"><span class="flaticon-cancel"></span></td>
+									            <td class="ico-10 disabled-option"><span class="flaticon-cancel"></span></td>
+									            <td class="ico-15 green-color"><span class="flaticon-check"></span></td>
+									        </tr>
+
+									        <tr>
+									            <th scope="row" class="text-start">10 mySQL Database</th>
+									            <td class="ico-10 disabled-option"><span class="flaticon-cancel"></span></td>
+									            <td class="ico-15 green-color"><span class="flaticon-check"></span></td>
+									            <td class="ico-15 green-color"><span class="flaticon-check"></span></td>
+									        </tr>
+
+									        <tr>
+									            <th scope="row" class="text-start">25 mySQL Database</th>
+									            <td class="ico-15 green-color"><span class="flaticon-check"></span></td>
+									            <td class="ico-15 green-color"><span class="flaticon-check"></span></td>
+									            <td class="ico-15 green-color"><span class="flaticon-check"></span></td>
+									        </tr>
+
+									        <tr>
+									            <th scope="row" class="text-start">50 mySQL Database</th>
+									            <td class="ico-10 disabled-option"><span class="flaticon-cancel"></span></td>
+									            <td class="ico-15 green-color"><span class="flaticon-check"></span></td>
+									            <td class="ico-15 green-color"><span class="flaticon-check"></span></td>
+									        </tr>
+
+									        <tr>
+									            <th scope="row" class="text-start">25 GB of Storage</th>
+									            <td class="ico-10 disabled-option"><span class="flaticon-cancel"></span></td>
+									            <td class="ico-15 green-color"><span class="flaticon-check"></span></td>
+									            <td class="ico-15 green-color"><span class="flaticon-check"></span></td>
+									        </tr>
+
+									        <tr>
+									            <th scope="row" class="text-start">80 GB of Storage</th>
+									            <td class="ico-15 green-color"><span class="flaticon-check"></span></td>
+									            <td class="ico-15 green-color"><span class="flaticon-check"></span></td>
+									            <td class="ico-15 green-color"><span class="flaticon-check"></span></td>
+									        </tr>
+
+									        <tr>
+									            <th scope="row" class="text-start">500 mySQL Database</th>
+									            <td class="ico-10 disabled-option"><span class="flaticon-cancel"></span></td>
+									            <td class="ico-15 green-color"><span class="flaticon-check"></span></td>
+									            <td class="ico-15 green-color"><span class="flaticon-check"></span></td>
+									        </tr>
+
+									        <tr>
+									            <th scope="row" class="text-start">Premium Support</th>
+									            <td class="ico-10 disabled-option"><span class="flaticon-cancel"></span></td>
+									            <td class="ico-10 disabled-option"><span class="flaticon-cancel"></span></td>
+									            <td class="ico-15 green-color"><span class="flaticon-check"></span></td>
+									        </tr>
+
+									        <tr>
+									            <th scope="row" class="text-start">VIP Support</th>
+									            <td class="ico-10 disabled-option"><span class="flaticon-cancel"></span></td>
+									            <td class="ico-10 disabled-option"><span class="flaticon-cancel"></span></td>
+									            <td class="ico-15 green-color"><span class="flaticon-check"></span></td>
+									        </tr>
+
+								        </tbody>
+
+	      							</table>
+	   							</div>	<!-- End Table -->	
+
+							</div>
+						</div>
+					</div>	<!-- END PRICING COMPARE -->
+
+
+					<!-- PRICING NOTICE TEXT -->
+					<div class="row">
+						<div class="col-lg-10 offset-lg-1">
+							<div class="pricing-notice text-center mb-40">					
+								<p class="p-md">The above prices do not include applicable taxes based on your billing address.
+								   The final price will be displayed on the checkout page, before the payment is completed
+								</p>
+							</div>	
+						</div>
+					</div>
+
+
+					<!-- PAYMENT METHODS -->
+					<div class="payment-methods pc-30">	
+						<div class="row row-cols-1 row-cols-md-3">
+
+							<!-- Payment Methods -->
+							<div class="col col-lg-5">
+								<div class="pbox mb-40">
+
+									<!-- Title -->
+									<h6 class="h6-md">Accepted Payment Methods</h6>
+
+									<!-- Payment Icons -->
+									<ul class="payment-icons ico-50">
+										<li><img src="images/png-icons/visa.png" alt="payment-icon" /></li>
+										<li><img src="images/png-icons/am.png" alt="payment-icon" /></li>
+										<li><img src="images/png-icons/discover.png" alt="payment-icon" /></li>
+										<li><img src="images/png-icons/paypal.png" alt="payment-icon" /></li>	
+										<li><img src="images/png-icons/jcb.png" alt="payment-icon" /></li>
+										<li><img src="images/png-icons/shopify.png" alt="payment-icon" /></li>
+									</ul>
+
+								</div>
+							</div>	
+
+
+							<!-- Payment Guarantee -->
+							<div class="col col-lg-4">
+								<div class="pbox mb-40">
+
+									<!-- Title -->
+									<h6 class="h6-md">Money Back Guarantee</h6>
+
+									<!-- Text -->
+									<p>Explore OLMO Premium for 14 days. If it’s not a perfect fit, receive a full refund.</p>
+									
+								</div>
+							</div>	
+
+
+							<!-- Payment Encrypted -->
+							<div class="col col-lg-3">
+								<div class="pbox mb-40">
+
+									<!-- Title -->
+									<h6 class="h6-md">SSL Encrypted Payment</h6>
+
+									<!-- Text -->
+									<p>Your information is protected by 256-bit SSL encryption.</p>
+
+								</div>
+							</div>	
+
+						</div>
+					</div>	<!-- END PAYMENT METHODS -->
+
+
+				</div>	   <!-- End container -->
+			</section>	<!-- END PRICING-2 -->
+
+			<!-- DIVIDER LINE -->
+			<hr class="divider">
+
+			<!-- CALL TO ACTION-8
+			============================================= -->
+			<section id="cta-8" class="bg-snow wide-100 cta-section division">
+				<div class="container">
+					<div class="cta-8-wrapper pc-25">
+						<div class="row row-cols-1 row-cols-md-2">
+
+
+							<!-- BOX #1 -->
+		 					<div class="col">
+		 						<a href="pricing.html">
+			 						<div class="cta-box cta-top-box bg-white wow fadeInUp">
+
+			 							<!-- Icon -->
+			 							<div class="cta-ico">
+			 								<div class="ico-60"><span class="flaticon-wallet"></span></div>
+										</div>
+
+										<!-- Text -->
+										<div class="cta-txt">
+			
+											<!-- Title -->
+											<h5 class="h5-md">View Pricing</h5>
+												
+											<!-- Text -->
+											<p class="p-lg">Porta semper lacus cursus feugiat primis ultrice ligula risus at auctor
+											   tempus
+											</p>
+
+										</div>
+
+			 						</div>
+			 					</a>
+		 					</div>		<!-- END BOX #1 -->		
+
+
+		 					<!-- BOX #2 -->
+		 					<div class="col">
+		 						<a href="faqs.html">
+			 						<div class="cta-box bg-white wow fadeInUp">
+
+			 							<!-- Icon -->
+			 							<div class="cta-ico">
+			 								<div class="ico-60"><span class="flaticon-help"></span></div>
+										</div>
+
+										<!-- Text -->
+										<div class="cta-txt">
+			
+											<!-- Title -->
+											<h5 class="h5-md">Read the FAQs</h5>
+												
+											<!-- Text -->
+											<p class="p-lg">Porta semper lacus cursus feugiat primis ultrice ligula risus at auctor
+												tempus
+											</p>
+
+										</div>
+
+			 						</div>
+			 					</a>
+		 					</div>	<!-- END BOX #2 -->	
+
+
+		 				</div>   <!-- End cta-8-wrapper -->	
+		 			</div>    <!-- End row -->	
+				</div>	   <!-- End container -->	
+			</section>	<!-- END CALL TO ACTION-8 -->
+
+
+
+
+			<!-- DIVIDER LINE -->
+			<hr class="divider">
+
+
+
+
+			<!-- FOOTER-4
+			============================================= -->
+			<footer id="footer-4" class="bg-snow footer division">
+				<div class="container">
+
+
+					<!-- FOOTER CONTENT -->
+					<div class="row">	
+
+
+						<!-- FOOTER INFO -->
+						<div class="col-lg-3">
+							<div class="footer-info mb-40">
+								<img class="footer-logo" src="images/logo-01.png" alt="footer-logo">
+							</div>	
+						</div>	
+
+
+						<!-- FOOTER LINKS -->
+						<div class="col-sm-6 col-md-3 col-lg-2 col-lg-2 col-xl-2 offset-xl-1">
+							<div class="footer-links mb-40">
+							
+								<!-- Title -->
+								<h6 class="h6-xl">About</h6>
+
+								<!-- Footer Links -->
+								<ul class="foo-links text-secondary clearfix">
+									<li><p class="p-md"><a href="#">About Us</a></p></li>	
+									<li><p class="p-md"><a href="#">Our Team</a></p></li>
+									<li><p class="p-md"><a href="#">Careers</a></p></li>
+									<li><p class="p-md"><a href="#">Press & Media</a></p></li>
+									<li><p class="p-md"><a href="#">Advertising</a></p></li>						
+								</ul>
+
+							</div>
+						</div>
+
+
+						<!-- FOOTER LINKS -->
+						<div class="col-sm-6 col-md-3 col-lg-2">
+							<div class="footer-links mb-40">
+							
+								<!-- Title -->
+								<h6 class="h6-xl">Discover</h6>
+
+								<!-- Footer List -->
+								<ul class="foo-links text-secondary clearfix">							
+									<li><p class="p-md"><a href="#">Our Blog</a></p></li>										
+									<li><p class="p-md"><a href="#">Plans & Pricing</a></p></li>
+									<li><p class="p-md"><a href="#">Testimonials</a></p></li>
+									<li><p class="p-md"><a href="#">Knowledge Base</a></p></li>
+									<li><p class="p-md"><a href="#">Cookie Policy</a></p></li>					
+								</ul>
+
+							</div>
+						</div>
+
+
+						<!-- FOOTER LINKS -->
+						<div class="col-sm-6 col-md-3 col-lg-2">
+							<div class="footer-links mb-40">
+												
+								<!-- Title -->
+								<h6 class="h6-xl">Support</h6>
+
+								<!-- Footer List -->
+								<ul class="foo-links text-secondary clearfix">
+									<li><p class="p-md"><a href="#">FAQs</a></p></li>
+									<li><p class="p-md"><a href="#">Editor Help</a></p></li>
+									<li><p class="p-md"><a href="#">Community</a></p></li>											
+									<li><p class="p-md"><a href="#">Life Chatting</a></p></li>	
+									<li><p class="p-md"><a href="#">Contact Us</a></p></li>								
+								</ul>
+
+							</div>	
+						</div>	
+
+
+						<!-- FOOTER LINKS -->
+						<div class="col-sm-6 col-md-3 col-lg-3 col-xl-2">
+							<div class="footer-links mb-40">
+												
+								<!-- Title -->
+								<h6 class="h6-xl">Connect With Us</h6>
+
+								<!-- Social Links -->	
+								<ul class="footer-socials text-secondary ico-25 text-center clearfix">		
+									<li><a href="#"><span class="flaticon-facebook"></span></a></li>
+									<li><a href="#"><span class="flaticon-twitter"></span></a></li>
+									<li><a href="#"><span class="flaticon-github"></span></a></li>
+									<li><a href="#"><span class="flaticon-youtube"></span></a></li>
+								</ul>
+
+							</div>	
+						</div>	
+
+
+					</div>	<!-- END FOOTER CONTENT -->
+
+
+					<hr>
+
+
+					<!-- BOTTOM FOOTER -->
+					<div class="bottom-footer">
+						<div class="row row-cols-1 row-cols-md-2 d-flex align-items-center">
+
+
+							<!-- FOOTER COPYRIGHT -->
+							<div class="col">
+								<div class="footer-copyright">
+									<p>&copy; 2010 - 2021 OLMO. All Rights Reserved</p>
+								</div>
+							</div>
+
+
+							<!-- BOTTOM FOOTER LINKS -->
+							<div class="col">
+								<ul class="bottom-footer-list text-secondary text-end">
+									<li class="first-li"><p><a href="#">Privacy Policy</a></p></li>
+									<li class="last-li"><p><a href="#">Terms & Conditions</a></p></li>
+								</ul>
+							</div>
+
+
+						</div>  <!-- End row -->
+					</div>	<!-- BOTTOM FOOTER -->
+
+
+				</div>
+			</footer>	<!-- FOOTER-4 -->
+
+
+
+
+		</div>	<!-- END PAGE CONTENT -->	
+			
+
+
+
+		<!-- EXTERNAL SCRIPTS
+		============================================= -->	
+		<script src="js/jquery-3.6.0.min.js"></script>
+		<script src="js/bootstrap.min.js"></script>	
+		<script src="js/modernizr.custom.js"></script>
+		<script src="js/jquery.easing.js"></script>
+		<script src="js/jquery.appear.js"></script>
+		<script src="js/jquery.scrollto.js"></script>	
+		<script src="js/menu.js"></script>
+		<script src="js/owl.carousel.min.js"></script>
+		<script src="js/jquery.magnific-popup.min.js"></script>
+		<script src="js/contact-form.js"></script>	
+		<script src="js/jquery.validate.min.js"></script>
+		<script src="js/jquery.ajaxchimp.min.js"></script>	
+		<script src="js/wow.js"></script>
+				
+		<!-- Custom Script -->		
+		<script src="js/custom.js"></script>
+
+		<!-- Google Analytics: Change UA-XXXXX-X to be your site's ID. Go to http://www.google.com/analytics/ for more information. -->															
+		<!--
+		<script>
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-XXXXX-X']);
+			_gaq.push(['_trackPageview']);
+
+			(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+		-->
+
+
+
+	</body>
+
+
+
+</html>
